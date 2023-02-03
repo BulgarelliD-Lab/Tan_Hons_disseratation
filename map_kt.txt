@@ -1,0 +1,13 @@
+sampleID	genotype 	plant number	microhabitat	description
+FE41	Golden_Promise	plant1	endo	present
+FE46	Golden_Promise	plant2	endo	present
+FE33	Golden_Promise	plant3	endo	present
+FE22	Golden_Promise	plant4	endo	present
+FE19	Golden_Promise	plant5	endo	present
+FE31	Golden_Promise	plant6	endo	present
+FE20	RGT_planet	plant1	endo	absent
+FE6	RGT_planet	plant2	endo	absent
+FE43	RGT_planet	plant3	endo	absent
+FE16	RGT_planet	plant4	endo	absent
+FE23	RGT_planet	plant5	endo	absent
+FE15	RGT_planet	plant6	endo	absent
